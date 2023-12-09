@@ -19,8 +19,8 @@
 [submodule]
 	recurse = true
 [user]
-	name = Larry Smith Jr.
-	email = mrlesmithjr@gmail.com
+	name = Fabrice Sodogandji
+	email = fabrice.sodogandji@gmail.com
 [push]
 	autoSetupRemote = true
 [credential]
